@@ -1,0 +1,31 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "position": "Frontend Developer",
+      "company": "SC",
+      "location": "Kayseri",
+      "status": "Devam ediyor",
+      "type": "Tam Zamanlı",
+      "date": "10/1/2023"
+    },
+    {
+      "position": "mak müh",
+      "company": "ccc",
+      "location": "erkilet",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "id": "8c2ea2c8-5b85-4592-8237-f0fa0f49d875",
+      "date": "7/31/2023"
+    },
+    {
+      "position": "sdadasd",
+      "company": "dasdasd",
+      "location": "dasdsadasda",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "id": "13ecf07f-a39d-4a07-891b-1204ebbc38bf",
+      "date": "7/31/2023"
+    }
+  ]
+}
